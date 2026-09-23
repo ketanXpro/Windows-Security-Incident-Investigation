@@ -1,38 +1,35 @@
-# Investigation Evidence Screenshots
 
-This directory contains supporting screenshots related to the
-Windows Security Incident Investigation case study.
+# Evidence Screenshots
 
-## Evidence Categories
+This directory contains screenshots supporting the Windows Security Incident Investigation case study.
 
-### 1. Splunk Analysis
-Screenshots showing the review of available Windows Security
-Event ID 4688 records in Splunk Enterprise.
+## Evidence Index
 
-### 2. Process Activity Review
-Screenshots supporting the documented review of process activity.
+| No. | Screenshot | Description |
+|---|---|---|
+| 1 | Splunk Dataset Overview | Overview of the Windows Security Event ID 4688 dataset analyzed in Splunk. |
+| 2 | Process Review — 9 September | Process activity reviewed for 9 September 2026. |
+| 3 | Process Review — 11 September | Process activity reviewed for 11 September 2026. |
+| 4 | LOLBin Hunting | Search for potentially suspicious activity involving Living-off-the-Land Binaries. |
+| 5 | User-Writable Path Hunting | Search for process activity involving user-writable paths. |
+| 6 | Command-Line Availability | Evidence showing the availability limitation of process command-line data. |
 
-### 3. Threat-Hunting Searches
-Screenshots showing searches for selected suspicious utilities
-and user-writable paths, where available.
+## Screenshots
 
-### 4. Investigation Findings
-Screenshots supporting findings documented in the investigation
-report.
+### 1. Splunk Dataset Overview
+![Splunk Dataset Overview](01-splunk-dataset-overview.png)
 
-## Evidence Handling Notes
+### 2. Process Review — 9 September
+![Process Review — 9 September](02-process-review-09-september.png)
 
-- Screenshots are supporting material and should be interpreted
-  alongside the investigation report.
-- Screenshots do not independently establish that the endpoint
-  was uncompromised.
-- Do not present reconstructed or newly performed searches as
-  searches conducted during the original investigation.
-- Avoid including credentials, tokens, personal information,
-  or unrelated system details.
+### 3. Process Review — 11 September
+![Process Review — 11 September](03-process-review-11-september.png)
 
-## Main Report
+### 4. LOLBin Hunting
+![LOLBin Hunting](04-lolbin-hunting.png)
 
-Refer to the full investigation report:
+### 5. User-Writable Path Hunting
+![User-Writable Path Hunting](05-user-writable-path-hunting.png)
 
-[Security Incident Investigation Report](../../docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
+### 6. Command-Line Availability
+![Command-Line Availability](06-command-line-availability.png)
