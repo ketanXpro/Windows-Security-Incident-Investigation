@@ -84,6 +84,7 @@ Recommendations should be evaluated against the organization's approved security
 - [Security Incident Investigation Report](docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
 - [Findings and Limitations](docs/FINDINGS-AND-LIMITATIONS.md)
 - [Security Recommendations](docs/SECURITY-RECOMMENDATIONS.md)
+- [Project Overview](docs/PROJECT-OVERVIEW.md)
 
 ---
 
