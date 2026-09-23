@@ -82,6 +82,7 @@ Recommendations should be evaluated against the organization's approved security
 - [Incident Timeline](docs/INCIDENT-TIMELINE.md)
 - [Investigation Searches](docs/INVESTIGATION-SEARCHES.md)
 - [Security Incident Investigation Report](docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
+- [Findings and Limitations](docs/FINDINGS-AND-LIMITATIONS.md)
 
 ---
 
