@@ -1,28 +1,38 @@
-# Investigation Evidence
+# Investigation Evidence Screenshots
 
-This directory contains supporting screenshots for the Windows security incident investigation conducted at **Cybugs**.
+This directory contains supporting screenshots related to the
+Windows Security Incident Investigation case study.
 
 ## Evidence Categories
 
-### 1. Splunk Event Analysis
-Screenshots showing the review of available Windows Security Event ID 4688 process-creation records in Splunk Enterprise.
+### 1. Splunk Analysis
+Screenshots showing the review of available Windows Security
+Event ID 4688 records in Splunk Enterprise.
 
 ### 2. Process Activity Review
-Screenshots supporting the review of process names and available parent-child relationships.
+Screenshots supporting the documented review of process activity.
 
-### 3. Threat Hunting
-Screenshots showing searches for selected LOLBins and process execution from selected user-writable paths.
+### 3. Threat-Hunting Searches
+Screenshots showing searches for selected suspicious utilities
+and user-writable paths, where available.
 
 ### 4. Investigation Findings
-Screenshots supporting the documented findings, including the available event dataset and the results of the searches performed.
+Screenshots supporting findings documented in the investigation
+report.
 
-## Evidence Handling
+## Evidence Handling Notes
 
-- Include only screenshots relevant to the investigation.
-- Ensure screenshots accurately represent the searches and results documented in the report.
-- Do not alter screenshots in a way that changes or misrepresents the evidence.
-- Avoid including unrelated personal lab screenshots.
+- Screenshots are supporting material and should be interpreted
+  alongside the investigation report.
+- Screenshots do not independently establish that the endpoint
+  was uncompromised.
+- Do not present reconstructed or newly performed searches as
+  searches conducted during the original investigation.
+- Avoid including credentials, tokens, personal information,
+  or unrelated system details.
 
-## Note
+## Main Report
 
-The absence of matching events in a particular search does not establish that the endpoint was free of malicious activity.
+Refer to the full investigation report:
+
+[Security Incident Investigation Report](../../docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
