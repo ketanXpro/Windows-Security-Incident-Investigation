@@ -86,6 +86,7 @@ Recommendations should be evaluated against the organization's approved security
 - [Security Recommendations](docs/SECURITY-RECOMMENDATIONS.md)
 - [Project Overview](docs/PROJECT-OVERVIEW.md)
 - [Investigation Methodology](docs/METHODOLOGY.md)
+- [Case Summary](docs/CASE-SUMMARY.md)
 
 ---
 
