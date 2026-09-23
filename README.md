@@ -99,7 +99,16 @@ Windows-Security-Incident-Investigation/
 ├── README.md
 ├── docs/
 │   ├── REPORT-REDACTION-NOTE.md
-│   └── SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf
+│   ├── SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf
+│   ├── PROJECT-OVERVIEW.md
+│   ├── CASE-SUMMARY.md
+│   ├── INCIDENT-TIMELINE.md
+│   ├── METHODOLOGY.md
+│   ├── INVESTIGATION-SEARCHES.md
+│   ├── FINDINGS-AND-LIMITATIONS.md
+│   ├── SECURITY-RECOMMENDATIONS.md
+│   ├── TOOLS-AND-TECHNOLOGIES.md
+│   └── LESSONS-LEARNED.md
 └── evidence/
     └── screenshots/
         └── README.md
