@@ -77,6 +77,14 @@ Recommendations should be evaluated against the organization's approved security
 
 ---
 
+## Investigation Documentation
+
+- [Incident Timeline](docs/INCIDENT-TIMELINE.md)
+- [Investigation Searches](docs/INVESTIGATION-SEARCHES.md)
+- [Security Incident Investigation Report](docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
+
+---
+
 ## 📂 Repository Structure
 
 ```text
