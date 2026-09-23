@@ -79,16 +79,17 @@ Recommendations should be evaluated against the organization's approved security
 
 ## Investigation Documentation
 
-- [Incident Timeline](docs/INCIDENT-TIMELINE.md)
-- [Investigation Searches](docs/INVESTIGATION-SEARCHES.md)
-- [Security Incident Investigation Report](docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
-- [Findings and Limitations](docs/FINDINGS-AND-LIMITATIONS.md)
-- [Security Recommendations](docs/SECURITY-RECOMMENDATIONS.md)
-- [Project Overview](docs/PROJECT-OVERVIEW.md)
-- [Investigation Methodology](docs/METHODOLOGY.md)
 - [Case Summary](docs/CASE-SUMMARY.md)
-- [Tools and Technologies](docs/TOOLS-AND-TECHNOLOGIES.md)
+- [Incident Timeline](docs/INCIDENT-TIMELINE.md)
+- [Findings and Limitations](docs/FINDINGS-AND-LIMITATIONS.md)
+- [Investigation Searches](docs/INVESTIGATION-SEARCHES.md)
+- [Methodology](docs/METHODOLOGY.md)
+- [Security Recommendations](docs/SECURITY-RECOMMENDATIONS.md)
 - [Lessons Learned](docs/LESSONS-LEARNED.md)
+- [Project Overview](docs/PROJECT-OVERVIEW.md)
+- [Tools and Technologies](docs/TOOLS-AND-TECHNOLOGIES.md)
+- [Investigation Report (PDF)](docs/SECURITY_INCIDENT_INVESTIGATION_REPORT.pdf)
+- [Evidence Screenshots](evidence/screenshots/README.md)
 
 ---
 
